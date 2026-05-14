@@ -1,4 +1,4 @@
-# 🚗 Sistema de Locadora 2.0
+# 🚗 Sistema de Locadora 1.0
 
 Uma plataforma moderna e responsiva para **gestão de aluguel de veículos**, desenvolvida com foco em **experiência do usuário, organização da interface e performance**.
 
