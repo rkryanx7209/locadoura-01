@@ -1,13 +1,19 @@
-# Sistema de Locadora 
+# ?? Sistema de Locadora 2.0 
  
-?? **Link do Projeto:** [https://locadoura-ryan01.netlify.app/](https://locadoura-ryan01.netlify.app/) 
+Uma plataforma moderna e responsiva para gestao de aluguel de veiculos, focada em experiencia do usuario e performance. 
  
-Projeto desenvolvido durante a aula 9 para praticar manipulacao de DOM, JS e CSS. 
+?? **Acesse o sistema:** [https://locadoura-ryan01.netlify.app/](https://locadoura-ryan01.netlify.app/) 
  
-### Tecnologias Utilizadas 
-- HTML5 
-- CSS3 
-- JavaScript 
+### ?? Funcionalidades 
+- Interface intuitiva e responsiva. 
+- Listagem dinamica de veiculos. 
+- Sistema de filtros e busca. 
+- Layout otimizado para dispositivos moveis. 
  
-### Como executar localmente 
-Basta abrir o arquivo index.html no seu navegador ou via servidor local XAMPP. 
+### ??? Tecnologias 
+- **Frontend:** HTML5 estruturado e CSS3 moderno. 
+- **Logica:** JavaScript (Manipulacao de DOM e eventos). 
+- **Hospedagem:** Netlify CI/CD. 
+ 
+--- 
+*Desenvolvido por Ryan - Desenvolvedor Full Stack* 
